@@ -6,14 +6,16 @@ My journey through Hack The Box machines and write-ups, documenting attack paths
 | Machine Name | Category | Difficulty | Write-up |
 |---|---|---|---|
 | Cap | Linux | Easy | [View the write-up](https://github.com/salma-ashraf10/hack-the-box-machines/blob/main/Linux/Cap.md) |
+| Expressway | Linux | Easy | [View the write-up](https://github.com/salma-ashraf10/hack-the-box-machines/blob/main/Linux/Expressway.md) |
 
 
 ## Tools Frequently Used
 
 - Burp Suite
-- curl
+- Ike-scan
 - LinPEAS
 - Nmap
+- Hashcat
 
 
 ## Author
