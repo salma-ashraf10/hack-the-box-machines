@@ -17,6 +17,7 @@ In this write-up, we will solve the Expressway machine by
 - finally exploiting a vulnerable sudo version to obtain root privileges.
 
 ## Tools Used
+
 * Nmap
 * Hashcat
 * ike-scan
@@ -46,6 +47,7 @@ nmap -Pn -sU <machine_ip>
 The scan reveals UDP port 69 running TFTP.
 
 **Summary of TFTP**:
+
 Trivial File Transfer Protocol (TFTP) is a simple, lockstep file transfer protocol that uses UDP port 69. 
 
 It's designed to be simple and easy to implement, lacking the authentication and features of FTP. 
@@ -100,9 +102,10 @@ A Pre-Shared Key (PSK) is a secret shared between two parties before establishin
 If the PSK is weak, it may be vulnerable to offline cracking attacks.
 
 ### 4. Crack the PSK
+
 download the key
 ```
-ike-scan -M expressway.htb -A --pskcrack=key.hash  # -A --> , key.hash --> output file
+ike-scan -M expressway.htb -A --pskcrack=key.hash  # -A --> --aggressive , key.hash --> output file
 ```
 Crack it use hashcat
 ```
