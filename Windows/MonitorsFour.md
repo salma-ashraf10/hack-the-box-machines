@@ -46,8 +46,7 @@ Open the web application in your browser.
 
 I found a login page and tried SQL injection, but it was not vulnerable.
 
-<img width="1920" height="936" alt="image" src="https://github.com/user-attachments/assets/ddf81bf1-7044-4b19-9edd-13c8148ec61a" />
-
+<img width="1622" height="854" alt="image" src="https://github.com/user-attachments/assets/ed29a616-93bb-4f5e-85c6-4ecc9156bc46" />
 
 While inspecting the source code, I found an API endpoint: /api/v1/auth. I tried fuzzing it using ffuf:
 
@@ -126,8 +125,6 @@ hashcat -a 0 -m 0 key.txt /usr/share/wordlists/rockyou.txt
 ```
 wonderful1
 ```
-
----
 
 ## 3. Application Analysis
 
