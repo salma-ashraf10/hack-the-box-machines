@@ -7,7 +7,7 @@ My journey through Hack The Box machines and write-ups, documenting attack paths
 |---|---|---|---|
 | Cap | Linux | Easy | [View the write-up](https://github.com/salma-ashraf10/hack-the-box-machines/blob/main/Linux/Cap.md) |
 | Expressway | Linux | Easy | [View the write-up](https://github.com/salma-ashraf10/hack-the-box-machines/blob/main/Linux/Expressway.md) |
-
+| MonitorsFour | Windows | Easy | [View the write-up](https://github.com/salma-ashraf10/hack-the-box-machines/blob/main/Windows/MonitorsFour.md)
 
 ## Tools Frequently Used
 
@@ -16,7 +16,7 @@ My journey through Hack The Box machines and write-ups, documenting attack paths
 - LinPEAS
 - Nmap
 - Hashcat
-
+- FFUF
 
 ## Author
 
