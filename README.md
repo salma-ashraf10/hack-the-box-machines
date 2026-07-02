@@ -35,8 +35,8 @@ My journey through Hack The Box machines and write-ups, documenting attack paths
 
 Salma Ashraf [0xL0m4]
 
-[My HTB profile](https://app.hackthebox.com/users/2424943?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs)
-
-[My LinkedIn profile](https://www.linkedin.com/in/salma-ashraf11/)
+- [My HTB profile](https://app.hackthebox.com/users/2424943?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs)
+- [My LinkedIn profile](https://www.linkedin.com/in/salma-ashraf11/)
+- [My Medium profile](https://medium.com/@0xL0m4)
 
 
