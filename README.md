@@ -1,5 +1,8 @@
 
 # Hack The Box machines
+
+A collection of my write-ups for web machines from [Hack The Box](https://www.hackthebox.com).
+
 My journey through Hack The Box machines and write-ups, documenting attack paths, tools, techniques, and lessons learned in ethical hacking and cybersecurity.
 
 
