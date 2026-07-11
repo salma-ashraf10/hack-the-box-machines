@@ -17,6 +17,7 @@ My journey through Hack The Box machines and write-ups, documenting attack paths
 | Expressway | Linux | Easy | [View the write-up](https://github.com/salma-ashraf10/hack-the-box-machines/blob/main/Linux/Expressway.md) |
 | Connected | Linux | Easy | [View the write-up](http://github.com/salma-ashraf10/hack-the-box-machines/blob/main/Linux/Connected.md) |
 | Orion | Linux | Easy | [View the write-up](https://github.com/salma-ashraf10/hack-the-box-machines/blob/main/Linux/Orion.md) |
+| Manage | Linux | Easy | [View the write-up](https://github.com/salma-ashraf10/hack-the-box-machines/blob/main/Linux/Manage.md) |
 | Principal | Linux | Medium | [View the write-up](https://github.com/salma-ashraf10/hack-the-box-machines/blob/main/Linux/Principal.md) |
 | MonitorsFour | Windows | Easy | [View the write-up](https://github.com/salma-ashraf10/hack-the-box-machines/blob/main/Windows/MonitorsFour.md) |
 
@@ -33,6 +34,8 @@ My journey through Hack The Box machines and write-ups, documenting attack paths
 - NetExec
 - JWT encoder
 - Timestamps converter
+- Beanshooter
+- Tar 
 
 ## Author
 
