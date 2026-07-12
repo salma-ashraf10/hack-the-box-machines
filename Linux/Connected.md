@@ -76,6 +76,12 @@ After identifying the version, we search for known vulnerabilities and find:
 
 - CVE-2025-57819 (SQL Injection leading to RCE)
 
+Useful Resources:
+
+- https://github.com/YuvrajSHAD/FreePBX-CVE-2025-57819
+- https://github.com/MuhammadWaseem29/SQL-Injection-and-RCE_CVE-2025-57819
+- https://www.sentinelone.com/vulnerability-database/cve-2025-57819/
+
 
 ### 4. Testing SQL Injection
 
